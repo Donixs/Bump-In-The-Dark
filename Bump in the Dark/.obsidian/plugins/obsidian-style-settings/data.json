@@ -1,0 +1,23 @@
+{
+  "ITS@@select": "none",
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@notion": false,
+  "ITS@@its-d": false,
+  "ITS-AT@@paper": true,
+  "ITS-AT@@select": "dnd",
+  "ITS-AT@@t-d": false,
+  "ITS-AT@@drwn": false,
+  "ITS-AT@@nord": false,
+  "ITS-AT@@notion": false,
+  "ITS-AT@@mini": false,
+  "ITS-AT@@its-d": false,
+  "ITS-AT@@s-d": false,
+  "ITS-AT@@slrvb-g": false,
+  "ITS-AT@@slrvb-b": false
+}
