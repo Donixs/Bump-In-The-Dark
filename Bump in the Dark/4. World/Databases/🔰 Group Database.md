@@ -1,1 +1,0 @@
-[[Esoteric Order of the Palatine Eye]]
